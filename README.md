@@ -1,4 +1,4 @@
-# Hi there👋! I'm Shivam 🙋‍♂️
+# Hi there👋! I'm Shivam
 
 ## **Welcome to aushin19/aushin19 repo**
 Here are some ideas to get you started:
