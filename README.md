@@ -3,7 +3,7 @@
 
 # Hi there👋! I'm Shivam
 
-### For freelance work? do mail me on, [email](mailto:shivam1999.gaikwad@gmail.com) :)
+### For freelance work? do mail me on, [Email Me](mailto:shivam1999.gaikwad@gmail.com) :)
 ## 🛠 Technical Skills
 • Frontend: React.js, Next.js, React Native, Tailwind CSS, shadcn/ui \
 • Backend: Node.js, Express.js, REST APIs, GraphQL \
